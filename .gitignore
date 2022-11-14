@@ -1,0 +1,10 @@
+.idea/
+node_modules/
+wallet/node_modules/
+solidity/node_modules/
+solidity/cache/
+solidity/build/
+solidity/artifacts/
+solidity/.env
+wallet/build/
+wallet/src/.env
